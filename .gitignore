@@ -1,1 +1,5 @@
 env
+document_portal.egg-info
+*.egg-info/
+*.egg
+*.log
